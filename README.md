@@ -1,3 +1,3 @@
-# Karafka – Ruby framework for building Kafka message-based applications
+# Presentation about Trailblazer 2.0
 
-Open [http://mensfeld.github.io/karafka-framework-introduction](http://mensfeld.github.io/karafka-framework-introduction)
+Open [http://mensfeld.github.io/trailblazer-2.0-introduction](http://mensfeld.github.io/trailblazer-2.0-introduction)
